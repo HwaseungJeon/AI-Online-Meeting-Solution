@@ -1,4 +1,4 @@
-## <StartPage.html>
+# <StartPage.html>
 <center><img src = "https://user-images.githubusercontent.com/78493663/108149711-c39d0980-7116-11eb-889e-464304fe19d9.png", width = "60%"></center>
 
 - The first page of the service.
@@ -8,7 +8,7 @@
    
 <br>   
 
-## <HTMLPage1.html>
+# <HTMLPage1.html>
 <center><img src = "https://user-images.githubusercontent.com/78493663/108149658-aec07600-7116-11eb-9ed6-2fabfbb978cf.png", width = "60%"></center>
 
 - You can choose the version of the Minutes of Meeting(Meeting log).
